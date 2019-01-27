@@ -6,5 +6,5 @@ Process:
 1) Obtain data from Kaggle and extract spectrograms
 2) Train Neural Network
 3) Connect neural network to arudino
-4) [Presentation (Contains video of car in action!)](https://docs.google.com/presentation/d/1WDjfSdXJxMTSl_K7_u0fM6tv5v-i54fAw8-XslhkJS8/edit?usp=sharing)#  <#Title#>
+4) [Presentation (Contains video of car in action!)](https://docs.google.com/presentation/d/1WDjfSdXJxMTSl_K7_u0fM6tv5v-i54fAw8-XslhkJS8/edit?usp=sharing)
 
